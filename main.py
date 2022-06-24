@@ -4,8 +4,8 @@ from telethon.tl.functions.channels import GetFullChannelRequest
 from telethon.tl.types import InputPeerEmpty
 from tqdm import tqdm
 
-api_id=17231443  #change this to your api_id
-api_hash='fcf8061103cd0adede64dc85095' #change this to your api_hash
+api_id=172313443  #change this to your api_id
+api_hash='fcf80641103cd0adede64dc85095' #change this to your api_hash
 
 
 messag=0
